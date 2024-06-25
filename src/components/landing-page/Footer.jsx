@@ -63,7 +63,7 @@ const Footer = () => {
                 <span class="mr-4">voxai@gmail.com</span>
                 <span class="flex items-center">
                   <Icons.call className="h-5  group w-5 mr-1" />
-                  <span>Terms of Service</span>
+                  <span>Termss of Service</span>
                 </span>
               </span>
             </div>
